@@ -14,9 +14,21 @@ for x in range(1 , 10):
 
 # Numeros primo com For Condicional
 print('---------------------')
+
+
 # Uso do While
 
 a = 0
 while a <= 10:
     print(a)
     a+=1
+
+
+
+print('aassssssssss')
+
+resultado = 0
+for x in range(1, 10):
+    if x < 9:
+        resultado += 1
+        print(resultado)
